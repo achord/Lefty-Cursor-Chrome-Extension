@@ -1,0 +1,5 @@
+a, 
+a:link,
+button{
+  cursor: url(chrome-extension://__MSG_@@extension_id__/pointer-left-16.png), auto !important;
+}  
