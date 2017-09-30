@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Lefty Cursor",
-  "description": "This extension allows the user to change the default pointer cursor to a lefty",
+  "description": "Change the default pointer cursor to a lefty",
   "version": "1.0",  
   "icons": {
     "16":  "icon-16.png",
