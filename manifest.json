@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Lefty Cursor",
-  "description": "The default cursor is a right hand point. It's another the way the man is trying to hold a lefty down. Change the default pointer cursor to a lefty, the way God intended.",
+  "description": "The default web cursor is a right hand pointer. It's just another way the man is trying to hold a lefty down! Change the default pointer cursor to a lefty, the way God intended..",
   "version": "1.0",  
   "icons": {
     "16":  "icon-16.png",
